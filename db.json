@@ -3165,7 +3165,7 @@
     "ID": 0,
     "Color": "stonekin",
     "Name": "Grinder (promo)",
-    "Affinity": "promo",
+    "Affinity": "promo_shadow",
     "Type": "creature",
     "Rarity": "R",
     "Cost": 260,
